@@ -96,10 +96,8 @@ https://en.wikipedia.org/wiki/Boosting_(machine_learning)
 ## 8. Unsupervised learning
 
 ## 9. Uncertainties
-What is a confidence interval?
-https://en.wikipedia.org/wiki/Confidence_interval
-How do you calculate it?
-How do you calculate confidence interval via bootstrapping?
-What is the relationship between quantiles and confidence interval?
-What is the difference between confidence and prediction interval?
-https://en.wikipedia.org/wiki/Prediction_interval
+- What is a confidence interval? https://en.wikipedia.org/wiki/Confidence_interval
+- How do you calculate it?
+- How do you calculate confidence interval via bootstrapping?
+- What is the relationship between quantiles and confidence interval?
+- What is the difference between confidence and prediction interval? https://en.wikipedia.org/wiki/Prediction_interval
