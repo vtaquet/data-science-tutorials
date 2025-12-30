@@ -1,6 +1,6 @@
 # data-science-tutorials
 
-Set of tutorials on various statistics, data science and machine learning topics.
+Set of tutorials on various statistics, data science and machine learning topics taken from various books and online courses.
 
 ## 1. EDA
 - What is a discrete variable vs continuous variable?
