@@ -101,3 +101,6 @@ https://en.wikipedia.org/wiki/Boosting_(machine_learning)
 - How do you calculate confidence interval via bootstrapping?
 - What is the relationship between quantiles and confidence interval?
 - What is the difference between confidence and prediction interval? https://en.wikipedia.org/wiki/Prediction_interval
+
+## 10. Supply chain
+- How to perform inventory management for low-selling items with intermittent sales?
